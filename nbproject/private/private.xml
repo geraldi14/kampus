@@ -3,9 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/pendidikan/src/administrasi/jurnalmengajar.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/pendidikan/src/administrasi/mahasiswa.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/pendidikan/src/pendidikan/Pendidikan.java</file>
+            <file>file:/C:/kampus/src/gui/frameJurnalmengajar.java</file>
+            <file>file:/C:/kampus/src/pendidikan/Pendidikan.java</file>
+            <file>file:/C:/kampus/src/gui/frameMatakuliah.java</file>
+            <file>file:/C:/kampus/src/gui/frameDosen.java</file>
+            <file>file:/C:/kampus/src/gui/frameMahasiswa.java</file>
+            <file>file:/C:/kampus/src/administrasi/jurnalmengajar.java</file>
+            <file>file:/C:/kampus/src/administrasi/dosen.java</file>
+            <file>file:/C:/kampus/src/gui/frameUtama.java</file>
+            <file>file:/C:/kampus/src/administrasi/mahasiswa.java</file>
+            <file>file:/C:/kampus/src/administrasi/matakuliah.java</file>
+            <file>file:/C:/kampus/src/CRUD/koneksi.java</file>
         </group>
     </open-files>
 </project-private>
